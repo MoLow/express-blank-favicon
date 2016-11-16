@@ -1,0 +1,26 @@
+{
+  "name": "express-blank-favicon",
+  "version": "1.0.0",
+  "description": "serve blank favicon in express app",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "favicon",
+    "blank",
+    "middleware"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoLow/express-blank-favicon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoLow/express-blank-favicon/issues"
+  },
+  "homepage": "https://github.com/MoLow/express-blank-favicon#readme"
+}
