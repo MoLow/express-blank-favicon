@@ -15,7 +15,7 @@ npm install express-blank-favicon --save
 var express = require('express'),
     app = express();
 
-app.use(require('express-favicon'));
+app.use(require('express-blank-favicon'));
 
 ```
 

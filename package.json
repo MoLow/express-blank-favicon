@@ -1,6 +1,6 @@
 {
   "name": "express-blank-favicon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "serve blank favicon in express app",
   "main": "index.js",
   "license": "MIT",
